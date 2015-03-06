@@ -5,7 +5,6 @@ Maintainer: Heinrich Schuchardt <xypron.glpk@gmx.de>
 Build-Depends:
  debhelper (>= 9.0.0),
  autotools-dev,
- autoconf-archive,
  libtool,
  pkg-config,
  libnl-3-dev,
